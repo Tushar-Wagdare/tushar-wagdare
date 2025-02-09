@@ -3,14 +3,14 @@ import { motion } from 'framer-motion'
 import { ChevronDownIcon } from 'lucide-react'
 
 // Import section components
-import Hero from '../components/sections/Hero'
-import About from '../components/sections/About'
-import Experience from '../components/sections/Experience'
-import Skills from '../components/sections/Skills'
-import Projects from '../components/sections/Projects'
-import Education from '../components/sections/Education'
-import Contact from '../components/sections/Contact'
-import { aboutData, experienceData, skillsData, projectsData, educationData } from '../data/portfolioData'; // Correct relative path
+import Hero from '../components/sections/Hero.jsx'
+import About from '../components/sections/About.jsx'
+import Experience from '../components/sections/Experience.jsx'
+import Skills from '../components/sections/Skills.jsx'
+import Projects from '../components/sections/Projects.jsx'
+import Education from '../components/sections/Education.jsx'
+import Contact from '../components/sections/Contact.jsx'
+import { aboutData, experienceData, skillsData, projectsData, educationData } from '../data/portfolioData.js'; // Correct relative path
 
 
 export default function Portfolio() {
