@@ -1,6 +1,6 @@
 import { GithubIcon, LinkedinIcon, MailIcon, PhoneIcon } from 'lucide-react';
 import React from 'react';
-import { contactData } from '../../data/portfolioData';  // Import contactData
+import { contactData } from '../../data/portfolioData.js';  // Import contactData
 
 function Contact() {
   return (

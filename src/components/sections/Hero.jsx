@@ -1,8 +1,8 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { ChevronDownIcon } from 'lucide-react';
-import HeroBackground from '../HeroBackground';
-import { aboutData } from '../../data/portfolioData'; // Import aboutData
+import HeroBackground from '../HeroBackground.jsx';
+import { aboutData } from '../../data/portfolioData.js'; // Import aboutData
 
 function Hero() {
   return (

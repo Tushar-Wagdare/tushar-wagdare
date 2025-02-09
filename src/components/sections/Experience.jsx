@@ -1,5 +1,5 @@
 import React from 'react';
-import { experienceData } from '../../data/portfolioData'; // Import experienceData
+import { experienceData } from '../../data/portfolioData.js'; // Import experienceData
 
 function Experience() {
   return (

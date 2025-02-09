@@ -1,5 +1,5 @@
 import React from 'react';
-import { educationData } from '../../data/portfolioData';  // Import educationData
+import { educationData } from '../../data/portfolioData.js';  // Import educationData
 
 function Education() {
   return (
