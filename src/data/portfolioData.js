@@ -1,5 +1,5 @@
 export const aboutData = {
-  name: "ushar Wagdare",
+  name: "Tushar Wagdare",
   title: "Software Developer",
   location: "Pune, India",
   email: "tushartwagdare@gmail.com",
