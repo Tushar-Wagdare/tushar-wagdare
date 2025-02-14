@@ -1,6 +1,6 @@
 export const aboutData = {
-  name: "tushar Wagdare",
-  title: "Software Developer",
+  name: "Tushar Wagdare",
+  title: "Software Developer | Realtime Rendering Specialist",
   location: "Pune, India",
   email: "tushartwagdare@gmail.com",
   linkedin: "https://www.linkedin.com/in/tushar-wagdare-715438245/",
@@ -62,7 +62,7 @@ export const projectsData = [
     title: "Dashavtaram",
     description: "Created a mythological story-based narration and cinematic sequence using C++ and OpenGL.",
     technologies: ["C++", "OpenGL"],
-    liveDemo: "https://youtu.be/z0xTpobLRXI?si=ML7Q1VUQ9iiJOXzt", // Add Live Demo link if available
+    liveDemo: "https://www.youtube.com/watch?v=z0xTpobLRXI", // Add Live Demo link if available
     github: null, // Add Github link if available
     image: null, // Add project screenshots or videos
     date: "01/2025",
@@ -71,12 +71,56 @@ export const projectsData = [
   {
     title: "OpenGL-ModelLoadingAndAnimation",
     description:
-      "OpenGL model loading and skeletal animation examples.",
-    technologies: [],
-    liveDemo: "https://github.com/Tushar-Wagdare/OpenGL-ModelLoadingAndAnimation", // Add Live Demo link if available
+      "OpenGL model loading and skeletal animation examples. It provides a practical implementation usng assimp model loader and glm for math operations.",
+    technologies: ["C++", "OpenGL", "GLSL", "Assimp", "glm"],
+    liveDemo: null, // Add Live Demo link if available
     github: "https://github.com/Tushar-Wagdare/OpenGL-ModelLoadingAndAnimation", // Add Github link if available
     image: null, // Add project screenshots or videos
     date: "10/2024",
+    details: [], // Can be a list of bullet points detailing the project
+  },
+  {
+    title: "OpenGL-PBR",
+    description:
+      "This project demonstrates Physically Based Rendering (PBR) techniques in OpenGL using C++ and GLSL. It explores a few PBR techniques: Normal Mapping, Parallax Mapping, and Image-Based Lighting (IBL), to create more realistic and visually appealing rendering.",
+    technologies: ["C++", "OpenGL", "GLSL"],
+    liveDemo: "https://www.youtube.com/watch?v=WpxeeMz6_Bw", // Add Live Demo link if available
+    github: "https://github.com/Tushar-Wagdare/OpenGL-PBR", // Add Github link if available
+    image: null, // Add project screenshots or videos
+    date: "4/2025",
+    details: [], // Can be a list of bullet points detailing the project
+  },
+  {
+    title: "OpenGL-Tessellation",
+    description:
+      "This project demonstrates the implementation of Tessellation in OpenGL using C++ and GLSL. Tessellation is a process that subdivides high-order surfaces into triangles, providing better rendering performance and a more detailed look with a lower memory footprint compared to complex meshes.",
+    technologies: ["C++", "OpenGL", "GLSL"],
+    liveDemo: "https://www.youtube.com/watch?v=Sx4YjVkJDxQ", // Add Live Demo link if available
+    github: "https://github.com/Tushar-Wagdare/OpenGL-Tesselation", // Add Github link if available
+    image: null, // Add project screenshots or videos
+    date: "5/2025",
+    details: [], // Can be a list of bullet points detailing the project
+  },
+  {
+    title: "OpenGL-HeightMap",
+    description:
+      "This project demonstrates the implementation of HeightMap in OpenGL using C++ and GLSL.",
+    technologies: ["C++", "OpenGL", "GLSL"],
+    liveDemo: "https://www.youtube.com/watch?v=SkPq1Y5yoWk", // Add Live Demo link if available
+    github: "https://github.com/Tushar-Wagdare/OpenGL-Tesselation", // Add Github link if available
+    image: null, // Add project screenshots or videos
+    date: "5/2025",
+    details: [], // Can be a list of bullet points detailing the project
+  },
+  {
+    title: "OpenGL-GeometryShader",
+    description:
+      "This project demonstrates the implementation of Geometry Shaders in OpenGL using C++ and GLSL. Geometry shaders run after vertex shaders and before fragment shaders, allowing you to generate new primitives (points, lines, or triangles) from input primitives, enabling effects like mesh explosion, wireframe rendering, and more.",
+    technologies: ["C++", "OpenGL", "GLSL"],
+    liveDemo: "https://www.youtube.com/watch?v=YSVAuS9mxgY", // Add Live Demo link if available
+    github: "https://github.com/Tushar-Wagdare/OpenGL-GeometryShader", // Add Github link if available
+    image: null, // Add project screenshots or videos
+    date: "5/2025",
     details: [], // Can be a list of bullet points detailing the project
   },
 ];
