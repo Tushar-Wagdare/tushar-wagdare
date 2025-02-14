@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Tushar Wagdare</h1>
 <h3 align="center">Software Developer specializing in efficient, cross-platform solutions using C++. Strong problem-solver with a background in data structures, algorithms, and so</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-wagdare&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-wagdare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-wagdare" alt="tushar-wagdare" /></a> </p>
+
+- OpenGL-Tesselation [This repository demonstrates the implementation of Tessellation in OpenGL using C++ and GLSL.](https://github.com/Tushar-Wagdare/OpenGL-Tesselation)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
