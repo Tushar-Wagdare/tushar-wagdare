@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-wagdare&show_icons=true&locale=en" alt="tushar-wagdare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-wagdare&" alt="tushar-wagdare" /></p>
+
