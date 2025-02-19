@@ -16,7 +16,7 @@ export const skillsData = [
   },
   {
     name: "Frameworks & APIs",
-    skills: ["OpenGL", "OpenGL ES", "WebGL", "DirectX11", "Win32 SDK", "xLib"],
+    skills: ["OpenGL", "OpenGL ES", "WebGL", "DirectX11", "Win32 SDK", "xLib", "Qt"],
   },
   {
     name: "Development Tools:",
@@ -32,7 +32,7 @@ export const skillsData = [
   },
   {
     name: "Core Competencies",
-    skills: ["Data Structures", "Algorithm Design", "Software Testing", "Bug Fixing", "Database Management"],
+    skills: ["Data Structures", "Algorithm Design", "Multithreading", "Software Testing", "Bug Fixing", "Database Management"],
   },
 ];
 
@@ -43,7 +43,7 @@ export const projectsData = [
       "A cinematic sequence rendered in real-time using C and OpenGL, involving a perlin noise and a real-time spline implementation.",
     technologies: ["C", "OpenGL"],
     liveDemo: "https://www.youtube.com/watch?v=QFp7CFoTlfg",
-    github: null, // Add Github link if available
+    github: "https://github.com/Tushar-Wagdare/DS_Demo-VaatDisuDe", // Add Github link if available
     image: null, // Add project screenshots or videos
     date: "03/2024",
     details: [], // Can be a list of bullet points detailing the project
@@ -73,7 +73,7 @@ export const projectsData = [
     description:
       "OpenGL model loading and skeletal animation examples. It provides a practical implementation usng assimp model loader and glm for math operations.",
     technologies: ["C++", "OpenGL", "GLSL", "Assimp", "glm"],
-    liveDemo: null, // Add Live Demo link if available
+    liveDemo: "https://www.youtube.com/watch?v=KI7ARaL5nyY", // Add Live Demo link if available
     github: "https://github.com/Tushar-Wagdare/OpenGL-ModelLoadingAndAnimation", // Add Github link if available
     image: null, // Add project screenshots or videos
     date: "10/2024",
@@ -154,7 +154,7 @@ export const educationData = [
 
 export const experienceData = [
   {
-    title: "Graphics Developer",
+    title: "Software Developer",
     company: null,
     dates: "03/2023 - Present",
     location: "Pune, India",
