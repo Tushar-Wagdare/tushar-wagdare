@@ -10,7 +10,7 @@ function Experience() {
           <div key={index} className="bg-gray-800 rounded-lg p-6 mb-6">
             <h3 className="text-xl font-semibold mb-2">{exp.title}</h3>
             <p className="text-gray-400 mb-4">
-              {exp.company} | {exp.dates} | {exp.location}
+              {exp.company}  {exp.dates}  {exp.location}
             </p>
             <ul className="list-disc list-inside text-gray-300 space-y-2">
               {exp.responsibilities.map((responsibility, i) => (

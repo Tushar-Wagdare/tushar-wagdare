@@ -154,10 +154,10 @@ export const educationData = [
 
 export const experienceData = [
   {
-    title: "Software Developer",
+    title: "Software Developement",
     company: null,
-    dates: "03/2023 - Present",
-    location: "Pune, India",
+    dates: null,
+    location: null,
     responsibilities: [
       "Developed 100+ applications using Modern OpenGL across 6 different platforms",
       "Personal work showcasing various applications developed using OpenGL",
