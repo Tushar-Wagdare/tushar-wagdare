@@ -53,7 +53,7 @@ export const projectsData = [
     description: "Created a mythological story-based cinematic sequence using C and OpenGL.",
     technologies: ["C", "OpenGL"],
     liveDemo: "https://www.youtube.com/watch?v=D8MvifK1kl8",
-    github: null, // Add Github link if available
+    github: "https://github.com/Tushar-Wagdare/Sunderkand_Demo_RTR", // Add Github link if available
     image: null, // Add project screenshots or videos
     date: "10/2023",
     details: [], // Can be a list of bullet points detailing the project
